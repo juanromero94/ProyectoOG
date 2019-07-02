@@ -1,2 +1,2 @@
 # ProyectoOG
-Proyecto opion de grado
+Proyecto opcion de grado
